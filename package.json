@@ -1,0 +1,11 @@
+{
+  "name": "@tbaustin/react-shopify",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "react": "^16.13.1"
+  },
+  "dependencies": {
+    "react-shopify": "^0.17.0"
+  }
+}

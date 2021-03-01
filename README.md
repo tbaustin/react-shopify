@@ -46,5 +46,10 @@ Name | Arguments | Example
 
 ## Required Environment Variables
 
-- `GATSBY_SHOPIFY_ACCESS_TOKEN`
-- `GATSBY_SHOPIFY_STORE_NAME`
+- `SHOPIFY_ACCESS_TOKEN`
+- `SHOPIFY_STORE_NAME`
+
+### Authors
+
+- Kennedy Rose [github](https://github.com/kennedyrose)
+- Taylor Austin [github](https://github.com/tbaustin)

@@ -1,4 +1,4 @@
-# @app/react-shopify
+# react-shopify
 
 Custom React hooks for working with [Shopify's storefront API](https://www.npmjs.com/package/shopify-buy).
 
